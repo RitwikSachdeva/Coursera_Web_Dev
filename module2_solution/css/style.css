@@ -9,19 +9,19 @@ body {
 
 h1 {
     text-align: center;
-    color: black;
+    color: white;
 }
 
 section {
-    border: 1px solid black;
+    border: 1px solid white;
     background-color: #2A124A;
     margin: 10px;
 }
 
 section>h2 {
     float: right;
-    border-bottom: 1px solid black;
-    border-left: 1px solid black;
+    border-bottom: 1px solid white;
+    border-left: 1px solid white;
     margin: 0;
     width: 230px;
     text-align: center;
