@@ -9,10 +9,11 @@ body {
 /** HEADER **/
 
 #header-nav {
-    background-color: #c98715;
+    background-color: #0F4D71;
     border-radius: 0;
     border: 0;
 }
+
 
 #header-nav button {
     margin-top: 22px;
@@ -33,7 +34,7 @@ body {
 }
 
 .navbar-brand h1 {
-    color: #7d1913;
+    color: white;
     font-family: 'Abril Fatface', cursive;
     font-weight: bolder;
     font-size: 1.8em;
@@ -61,7 +62,7 @@ body {
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-    border: 1px solid #7d1913;
+    border: 1px solid black;
 }
 
 
@@ -91,9 +92,9 @@ body {
 #chicken-tile, #beef-tile, #sushi-tile {
     width: 100%;
     padding: 20px;
-    background-color: #99ed7b;
+    background-color: #109AD7;
     margin-bottom: 60px;
-    box-shadow: 0 0 80px #18580b;
+    box-shadow: 0 0 80px black;
 }
 
 
