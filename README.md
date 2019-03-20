@@ -1,2 +1,4 @@
-# Coursera_Web_Dev
-Coursera HTML, CSS and Javascript
+# Web_Dev
+HTML_CSS_and_Javascript
+
+
