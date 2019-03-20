@@ -1,4 +1,4 @@
-* {
+* { color:white;
     box-sizing: border-box;
     font-family: Helvetica;
 }
@@ -6,7 +6,10 @@
 body {
     background-color: #2A124A;
 }
+p{
 
+    color:white;
+}
 h1 {
     text-align: center;
     color: white;
